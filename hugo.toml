@@ -1,6 +1,7 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = "http://localhost:1313"
+#baseURL = "http://localhost:1313"
+baseURL = "https://joe0917.github.io/tanxichen/"
 title = 'Hugo Book'
 theme = 'hugo-book'
 
