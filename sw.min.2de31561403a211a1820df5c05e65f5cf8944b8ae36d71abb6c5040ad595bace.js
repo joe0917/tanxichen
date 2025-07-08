@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/tanxichen/sw.js",{scope:"/tanxichen/"})

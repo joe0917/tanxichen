@@ -1,0 +1,15 @@
+{
+  "name": "浦陽檀溪陳氏宗譜",
+  "short_name": "浦陽檀溪陳氏宗譜",
+  "start_url": "/tanxichen/",
+  "scope": "/tanxichen/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/tanxichen/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+        /* 以下为tool/ganzhi样式 */
+        body {
+            font-family: 'SimSun', '宋体', serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        h1 {
+            color: #8b2323;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+        }
+
+        /* 转换器容器 */
+        .converter-container {
+            background-color: #f9f3e9;
+            border: 1px solid #e0d6c2;
+            border-radius: 5px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        /* 输入区域 */
+        .input-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        #year-input {
+            flex: 1;
+            padding: 8px 12px;
+            border: 1px solid #d4b483;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        button {
+            background-color: #8b2323;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #a52a2a;
+        }
+
+        /* 结果展示 */
+        #result {
+            min-height: 100px;
+            padding: 15px;
+            background-color: #fff;
+            border: 1px solid #e0d6c2;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+
+        .ganzhi-result {
+            font-size: 24px;
+            color: #8b2323;
+            margin: 10px 0;
+            font-weight: bold;
+        }
+
+        .era-list {
+            margin-top: 15px;
+        }
+
+        .era-item {
+            background-color: #f0e6d2;
+            padding: 10px;
+            margin-bottom: 8px;
+            border-radius: 4px;
+            border-left: 3px solid #8b2323;
+        }
+
+        .era-title {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .era-years {
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .error {
+            color: #d32f2f;
+            padding: 10px;
+            background-color: #ffebee;
+            border-radius: 4px;
+        }
