@@ -1,8 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>建站日志 on 浦陽檀溪陳氏宗譜</title><link>https://joe0917.github.io/tanxichen/posts/</link><description>Recent content in 建站日志 on 浦陽檀溪陳氏宗譜</description><generator>Hugo</generator><language>zh</language><atom:link href="https://joe0917.github.io/tanxichen/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>初创</title><link>https://joe0917.github.io/tanxichen/posts/20250706/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://joe0917.github.io/tanxichen/posts/20250706/</guid><description>&lt;h2 id="20250706">
- 20250706
- &lt;a class="anchor" href="#20250706">#&lt;/a>
-&lt;/h2>
-&lt;p>经过将近一个多星期的折腾，《浦阳檀溪陈氏宗谱》网站总算有个大概的框架结构。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>建站日志 on 浦陽檀溪陳氏宗譜</title><link>https://joe0917.github.io/tanxichen/posts/</link><description>Recent content in 建站日志 on 浦陽檀溪陳氏宗譜</description><generator>Hugo</generator><language>zh</language><atom:link href="https://joe0917.github.io/tanxichen/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>20250714--世系图</title><link>https://joe0917.github.io/tanxichen/posts/20250714/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><guid>https://joe0917.github.io/tanxichen/posts/20250714/</guid><description>&lt;p>✅关闭世系图右侧菜单目录，否则世系图中的链接会被目录覆盖，无法点击。bookToc: false&lt;/p></description></item><item><title>20250712--python工具</title><link>https://joe0917.github.io/tanxichen/posts/20250712/</link><pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate><guid>https://joe0917.github.io/tanxichen/posts/20250712/</guid><description>&lt;p>花了3天时间，搞了2个python工具，用以辅助建立行传人物卡片，以及自动生成世系图。&lt;/p>
+&lt;p>✅行传数据库&lt;/p>
+&lt;p>把以前输入的EXCEL表数据结构化到csv文件中。以后就在这个文件中修改。&lt;/p></description></item><item><title>20250709--平粮实迹</title><link>https://joe0917.github.io/tanxichen/posts/20250709/</link><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate><guid>https://joe0917.github.io/tanxichen/posts/20250709/</guid><description>&lt;p>✅初步建立《平粮实迹》陈谱（繁体）-任谱（简体）对照版本框架。内容待补充。&lt;/p>
+&lt;p>✅将dynasty.json中“干”字全部替换为“乾”&lt;/p>
+&lt;p>🚫小工具做成隐藏列表（只能进入页面后列表，不能直接在菜单中列表，暂不做）&lt;/p></description></item><item><title>20250708--小工具</title><link>https://joe0917.github.io/tanxichen/posts/20250708/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://joe0917.github.io/tanxichen/posts/20250708/</guid><description>&lt;p>这两天一边学习CSS和script（还有json数据库），一边练手，做了2个小工具。&lt;/p>
+&lt;h3 id="干支纪年查询">
+ 干支纪年查询。
+ &lt;a class="anchor" href="#%e5%b9%b2%e6%94%af%e7%ba%aa%e5%b9%b4%e6%9f%a5%e8%af%a2">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>缘起：&lt;/li>
+&lt;/ul>
+&lt;p>家谱中有非常多的干支纪年，导致对事件发生先后顺序没有直观的概念，因此需要快速（最好是自动）转为公元纪年。&lt;/p></description></item><item><title>20250706--初创</title><link>https://joe0917.github.io/tanxichen/posts/20250706/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://joe0917.github.io/tanxichen/posts/20250706/</guid><description>&lt;p>经过将近一个多星期的折腾，《浦阳檀溪陈氏宗谱》网站总算有个大概的框架结构。&lt;/p>
 &lt;ul>
 &lt;li>网站模板：hugo&lt;/li>
 &lt;li>模版主题：hugo-book&lt;/li>

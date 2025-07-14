@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>小工具 on 浦陽檀溪陳氏宗譜</title><link>https://joe0917.github.io/tanxichen/tags/%E5%B0%8F%E5%B7%A5%E5%85%B7/</link><description>Recent content in 小工具 on 浦陽檀溪陳氏宗譜</description><generator>Hugo</generator><language>zh</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://joe0917.github.io/tanxichen/tags/%E5%B0%8F%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>20250708--小工具</title><link>https://joe0917.github.io/tanxichen/posts/20250708/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://joe0917.github.io/tanxichen/posts/20250708/</guid><description>&lt;p>这两天一边学习CSS和script（还有json数据库），一边练手，做了2个小工具。&lt;/p>
+&lt;h3 id="干支纪年查询">
+ 干支纪年查询。
+ &lt;a class="anchor" href="#%e5%b9%b2%e6%94%af%e7%ba%aa%e5%b9%b4%e6%9f%a5%e8%af%a2">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>缘起：&lt;/li>
+&lt;/ul>
+&lt;p>家谱中有非常多的干支纪年，导致对事件发生先后顺序没有直观的概念，因此需要快速（最好是自动）转为公元纪年。&lt;/p></description></item><item><title>干支纪年查询工具</title><link>https://joe0917.github.io/tanxichen/tools/ganzhi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joe0917.github.io/tanxichen/tools/ganzhi/</guid><description>&lt;p>干支纪年查询工具&lt;/p></description></item></channel></rss>
